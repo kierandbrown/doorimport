@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">door-import</PackageJsonName>
+    <PackageJsonHomepage Condition="$(PackageJsonHomepage) == ''">https://github.com/kierandbrown/doorimport</PackageJsonHomepage>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">1.0.0</PackageJsonVersion>
+    <PackageJsonScriptsDev Condition="$(PackageJsonScriptsDev) == ''">vite</PackageJsonScriptsDev>
+    <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">vite build</PackageJsonScriptsBuild>
+    <PackageJsonScriptsPreview Condition="$(PackageJsonScriptsPreview) == ''">vite preview</PackageJsonScriptsPreview>
+    <PackageJsonScriptsPredeploy Condition="$(PackageJsonScriptsPredeploy) == ''">npm run build</PackageJsonScriptsPredeploy>
+    <PackageJsonScriptsDeploy Condition="$(PackageJsonScriptsDeploy) == ''">gh-pages -d dist</PackageJsonScriptsDeploy>
+    <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">^18.2.0</PackageJsonDependenciesReact>
+    <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">^18.2.0</PackageJsonDependenciesReactDom>
+    <PackageJsonDependenciesThree Condition="$(PackageJsonDependenciesThree) == ''">^0.158.0</PackageJsonDependenciesThree>
+    <PackageJsonDependenciesReactThreeFiber Condition="$(PackageJsonDependenciesReactThreeFiber) == ''">^8.13.1</PackageJsonDependenciesReactThreeFiber>
+    <PackageJsonDependenciesReactThreeDrei Condition="$(PackageJsonDependenciesReactThreeDrei) == ''">^9.89.2</PackageJsonDependenciesReactThreeDrei>
+    <PackageJsonDependenciesHeadlessuiReact Condition="$(PackageJsonDependenciesHeadlessuiReact) == ''">^1.7.15</PackageJsonDependenciesHeadlessuiReact>
+    <PackageJsonDevdependenciesVite Condition="$(PackageJsonDevdependenciesVite) == ''">^5.0.0</PackageJsonDevdependenciesVite>
+    <PackageJsonDevdependenciesVitejsPluginReact Condition="$(PackageJsonDevdependenciesVitejsPluginReact) == ''">^4.0.0</PackageJsonDevdependenciesVitejsPluginReact>
+  </PropertyGroup>
+</Project>

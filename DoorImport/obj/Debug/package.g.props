@@ -2,7 +2,7 @@
 <Project>
   <PropertyGroup>
     <PackageJsonName Condition="$(PackageJsonName) == ''">door-import</PackageJsonName>
-    <PackageJsonHomepage Condition="$(PackageJsonHomepage) == ''">https://github.com/kierandbrown/doorimport</PackageJsonHomepage>
+    <PackageJsonHomepage Condition="$(PackageJsonHomepage) == ''">https://github.io/kierandbrown/doorimport/</PackageJsonHomepage>
     <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">1.0.0</PackageJsonVersion>
     <PackageJsonScriptsDev Condition="$(PackageJsonScriptsDev) == ''">vite</PackageJsonScriptsDev>
     <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">vite build</PackageJsonScriptsBuild>

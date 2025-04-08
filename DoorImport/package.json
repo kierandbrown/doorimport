@@ -1,6 +1,6 @@
 {
   "name": "door-import",
-  "homepage": "https://github.com/kierandbrown/doorimport",
+  "homepage": "https://github.io/kierandbrown/doorimport/",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kbrown\\source\\repos\\DoorImport\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52AE508C-5194-4AF0-B35E-130397444F89}|DoorImport\\doorimport.esproj|c:\\users\\kbrown\\source\\repos\\doorimport\\doorimport\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{52AE508C-5194-4AF0-B35E-130397444F89}|DoorImport\\doorimport.esproj|solutionrelative:doorimport\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{52AE508C-5194-4AF0-B35E-130397444F89}|DoorImport\\doorimport.esproj|c:\\users\\kbrown\\source\\repos\\doorimport\\doorimport\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52AE508C-5194-4AF0-B35E-130397444F89}|DoorImport\\doorimport.esproj|solutionrelative:doorimport\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\kbrown\\source\\repos\\DoorImport\\DoorImport\\.gitignore",
-              "RelativeDocumentMoniker": "DoorImport\\.gitignore",
-              "ToolTip": "C:\\Users\\kbrown\\source\\repos\\DoorImport\\DoorImport\\.gitignore",
-              "RelativeToolTip": "DoorImport\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-04-08T14:18:03.75Z",
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\kbrown\\source\\repos\\DoorImport\\DoorImport\\package.json",
+              "RelativeDocumentMoniker": "DoorImport\\package.json",
+              "ToolTip": "C:\\Users\\kbrown\\source\\repos\\DoorImport\\DoorImport\\package.json",
+              "RelativeToolTip": "DoorImport\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T14:22:55.501Z",
               "EditorCaption": ""
             }
           ]
